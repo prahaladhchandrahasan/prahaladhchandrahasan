@@ -8,7 +8,5 @@
 <a href="https://www.linkedin.com/in/prahaladh-chandrahasan-a720b3170/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/pralichan">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>
 </a>
