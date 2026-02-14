@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Prahaladh Chandrahasan!</h1>
+<h2 align="center">Hello! I'm Prahaladh Chandrahasan!👋</h1>
 
 
 Hi, I am Prahaladh, a founding engineer at [Circle-AI](https://www.usecircle.com/) where I am building AI agents for insurance. I am Engineering hire #2 for this company funded by Unusual Ventures and I am primarily responsible for the backend and infra of our product.
